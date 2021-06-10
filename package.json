@@ -1,0 +1,9 @@
+{
+  "name": "jest-bug",
+  "devDependencies": {
+    "jest": "27.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
+}
