@@ -1,7 +1,8 @@
 {
   "name": "jest-bug",
   "devDependencies": {
-    "jest": "27.0.4"
+    "jest": "27.0.4",
+    "jest-mock-imports": "^1.2.1"
   },
   "scripts": {
     "test": "jest"
